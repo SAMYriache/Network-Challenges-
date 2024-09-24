@@ -8,3 +8,6 @@
 
 3. chal3.pkt : Router CLI Challenge Repository
    This project focuses on configuring routers via their Command Line Interface (CLI). It covers essential tasks such as hostname and password setup, IP address configuration for interfaces, activating interfaces, securing access with banner messages, and saving configurations for persistence. It’s an excellent guide for mastering basic router commands and network configuration.
+
+4. chal4.pkt : Router DHCP Configuration Challenge
+   This project demonstrates how to configure a router as a DHCP server to dynamically assign IP addresses to network devices. It includes creating DHCP pools, excluding static IP addresses, setting lease times, and verifying that devices receive IP addresses automatically and can communicate effectively.
